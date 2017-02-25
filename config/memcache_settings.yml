@@ -1,0 +1,17 @@
+development:
+ namespace: yumberry_development
+ host: 127.0.0.1
+ port: 11211
+ compress: true
+
+staging:
+ namespace: yumberry_staging
+ host: 127.0.0.1
+ port: 11211
+ compress: true
+
+production:
+ namespace: yumberry_production
+ host: 127.0.0.1
+ port: 11211
+ compress: true

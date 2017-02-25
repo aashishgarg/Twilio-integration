@@ -1,0 +1,5 @@
+# Twilio Two Factor Authentication = bcr2EO9ALRmoBL3pNc1o9nafcERpsznfK7bhPh2u
+development:
+  twilio_account_sid: AC25bde5a4564g86c837c04f2c687993
+  twilio_auth_token: 1d17027b2353434sdfsdfacf32772e9a97b4c2
+  twilio_phone_number: +1 801-416-3669
